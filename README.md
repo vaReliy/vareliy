@@ -1,7 +1,7 @@
-Hi 👋, I'm @vaReliy  
+####Hi 👋, I'm @vaReliy  
 A frontend developer from Ukraine  
 
-##Own Projects:
+###Own Projects:
 
 <details>
   <summary>Login-Landing | Demo Angular Project</summary>
@@ -17,7 +17,7 @@ Find more in the repo in README.
 </details>
 
 
-##Test tasks:  
+###Test tasks:  
 
 <details>
   <summary>Angular Nested Dropdown Menu</summary>
@@ -56,7 +56,7 @@ A button on each route: orders, patients should fetch data from a mock API
 * [Demo 🌐](https://vareliy.github.io/stms-test-task-3/)
 </details>
 
-##Education Projects/Courses/Workshops:
+###Education Projects/Courses/Workshops:
 
 <details>
   <summary>Acme Rockets | tailwindcss tutorial</summary>
